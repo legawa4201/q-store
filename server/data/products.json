@@ -1,0 +1,32 @@
+[
+    {
+        "productName": "Kopi",
+        "stock": 100,
+        "productType": "Konsumsi",
+        "UserId": 1
+    },
+    {
+        "productName": "Teh",
+        "stock": 100,
+        "productType": "Konsumsi",
+        "UserId": 2
+    },
+    {
+        "productName": "Pasta Gigi",
+        "stock": 100,
+        "productType": "Pembersih",
+        "UserId": 1
+    },
+    {
+        "productName": "Sabun Mandi",
+        "stock": 100,
+        "productType": "Pembersih",
+        "UserId": 2
+    },
+    {
+        "productName": "Sampo",
+        "stock": 100,
+        "productType": "Pembersih",
+        "UserId": 1
+    }
+]
